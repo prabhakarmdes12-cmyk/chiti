@@ -7,7 +7,7 @@ const base = process.env.GITHUB_PAGES ? "/chiti/" : "/";
 
 export default defineConfig({
   plugins: [react()],
-  base,
+  base: "/chiti/",
   build: {
     outDir: "dist",
     rollupOptions: {
