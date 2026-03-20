@@ -1,0 +1,17 @@
+{
+  "name": "Chiti — Intelligence that understands life",
+  "short_name": "Chiti",
+  "description": "The intelligence layer for human life. Mind, systems, growth.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#040410",
+  "theme_color": "#040410",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
